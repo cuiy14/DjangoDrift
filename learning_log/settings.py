@@ -40,8 +40,8 @@ INSTALLED_APPS = [
 
     #my apps
     'learning_logs',
-#    'users',
-]
+    'users',
+    ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
